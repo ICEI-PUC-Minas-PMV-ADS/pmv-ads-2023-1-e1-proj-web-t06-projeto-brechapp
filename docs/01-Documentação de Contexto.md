@@ -3,7 +3,7 @@
 A cada dia mais pessoas buscam um consumo consciente em diversos setores de sua existência, como por exemplo, na alimentação e na utilização de roupas e eletrônicos.
 O consumo consciente é uma tendência global e atinge o modo como as pessoas compram suas roupas, havendo, cada vez mais, uma grande preocupação com o desperdício e com a sustentabilidade.
 
-Atualmente, a chamada "fast fashion", que é a tendência de utilizar roupas "descartáveis", mais baratas e sem durabilidade, está em total decadência, fazendo com que os brechós voltem à moda.
+Atualmente, a chamada "fast fashion" (tendência de utilizar roupas "descartáveis", mais baratas e sem durabilidade) está em crise, devido aos impactos causados ao meio ambiente e as constantes denúncias de uso de trabalho escravo (eCycle, UOL, USP), fazendo com que os brechós voltassem à moda.
 
 A reutilização e a remodelagem de roupas antigas (ou apenas usadas poucas vezes) e de qualidade cresce a cada dia e, para atender a tal demanda, faz-se necessário conectar vendedores e compradores.
 
@@ -13,25 +13,24 @@ Com relação aos atuais brechós físicos e virtuais, frequentemente há pouca 
 
 A pouca informação disponível e a ausência de organização, categorizando as peças devidamente, inserindo informações sobre localização e horário de funcionamento, métodos de pagamento e demais informações, facilita o acesso dos compradores e sua disposição para a compra.
 
-Diante disso, torna-se essencial a criação de canais que atendam tanto a pessoas físicas quanto a lojas que queiram expor seus produtos e atingir um maior número de possíveis compradores.
-
+Diante disso, faltam canais que atendam tanto a pessoas físicas quanto a lojas que queiram expor seus produtos e atingir um maior número de possíveis compradores.
 
 
 
 ## Problema
 
-Como explicado, o problema que busca-se resolver com esse projeto é o acesso à maior variedade possível de pessoas físicas e de lojistas que queiram vender e compras peças de roupas antigas e/ou usadas poucas vezes.
+O problema que busca-se resolver com esse projeto é a falta de acesso à maior variedade possível de pessoas físicas e de lojistas que queiram vender e compras peças de roupas antigas e/ou usadas poucas vezes.
 
 
 
 ## Objetivos
 
-O objetivo geral desse trabalho é a criação de uma aplicação web que apresente ferramentas para vendedores (pessoas físicas e lojistas) e para compradores, que os permita expor roupas, bolsas, calçados, e etc., conectando-os com rapidez e intuitividade.
+O objetivo geral desse trabalho é permitir a divulgação de produtos (roupas usadas em bom estado de conservação) por vendedores (pessoas físicas e lojistas).
 
-Como objetivos específicos podemos listar:
-- Fornecer funcionalidades para o cadastro das peças;
+Como objetivos específicos podemos citar:
+- Permitir que os vendedores exponham produtos;
 - Permitir a comunicação entre vendedores e compradores;
-- Fornecer ferramentas para a venda das peças.
+- Oferecer aos compradores diferentes mecanismos de busca para as peças divulgadas no site.
 
 
 
@@ -57,7 +56,7 @@ hierárquicas, etc.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
-> **Links Úteis**: (em construção)
+> **Links Úteis**: 
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
