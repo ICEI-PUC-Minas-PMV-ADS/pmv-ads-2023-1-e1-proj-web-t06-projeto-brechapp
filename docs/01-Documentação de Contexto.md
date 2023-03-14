@@ -38,10 +38,16 @@ Como objetivos específicos podemos citar:
 
 Segundo dados do SEBRAE, atualmente o Brasil conta com quase 120 mil brechós em funcionamento, com um crescimento de cerca de 30% nos últimos 5 anos. Trata-se de um número expressivo e que justifica a criação de uma plataforma que permita a exposição de produtos pelos vendedores e a filtragem pelos compradores.
 
-Além disso, o consumo cada vez mais consciente de produtos e a atual preocupação com o meio ambiente, geram um ambiente favorável à procura por roupas e produtos usados e em bom estado de conservação.
+Além disso, a venda de roupas usadas é sustentável, ajudando a reduzir o impacto ambiental da produção de roupas novas.
+
+Esse modelo de negócio também gera economia para os possíveis compradores e atrai os mais variados perfis de consumidores.
 
 
 
 ## Público-Alvo 
 
 O público alvo desse projeto são os donos das roupas e produtos usados, sejam eles pessoas físicas ou lojistas, em busca de maior divulgação para seus produtos à venda, não havendo qualquer delimitação de faixa etária, gênero, profissão ou renda.
+
+Trata-se de um público com consciência social e preocupado com a sustentabilidade, e que também buscam economia na compra de suas roupas.
+
+Além disso, peças de roupas usadas são exclusivas, atraindo pessoas que gostam de ter um estilo único e personalizado.
