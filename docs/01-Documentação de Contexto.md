@@ -3,7 +3,7 @@
 A cada dia mais pessoas buscam um consumo consciente em diversos setores de sua existência, como por exemplo, na alimentação e na utilização de roupas e eletrônicos.
 O consumo consciente é uma tendência global e atinge o modo como as pessoas compram suas roupas, havendo, cada vez mais, uma grande preocupação com o desperdício e com a sustentabilidade.
 
-Atualmente, a chamada "fast fashion" (tendência de utilizar roupas "descartáveis", mais baratas e sem durabilidade) está em crise, devido aos impactos causados ao meio ambiente e as constantes denúncias de uso de trabalho escravo (eCycle, UOL, USP), fazendo com que os brechós voltassem à moda.
+Atualmente, a chamada "fast fashion" (tendência de utilizar roupas "descartáveis", mais baratas e sem durabilidade) está em crise, devido aos impactos causados ao meio ambiente e as constantes denúncias de uso de trabalho escravo (fontes: eCycle, UOL, USP), fazendo com que os brechós voltassem à moda.
 
 A reutilização e a remodelagem de roupas antigas (ou apenas usadas poucas vezes) e de qualidade cresce a cada dia e, para atender a tal demanda, faz-se necessário conectar vendedores e compradores.
 
@@ -34,30 +34,14 @@ Como objetivos específicos podemos citar:
 
 
 
+## Justificativa 
+
+Segundo dados do SEBRAE, atualmente o Brasil conta com quase 120 mil brechós em funcionamento, com um crescimento de cerca de 30% nos últimos 5 anos. Trata-se de um número expressivo e que justifica a criação de uma plataforma que permita a exposição de produtos pelos vendedores e a filtragem pelos compradores.
+
+Além disso, o consumo cada vez mais consciente de produtos e a atual preocupação com o meio ambiente, geram um ambiente favorável à procura por roupas e produtos usados e em bom estado de conservação.
 
 
 
+## Público-Alvo 
 
-
-
-## Justificativa (em construção)
-
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
-## Público-Alvo (em construção)
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**: 
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O público alvo desse projeto são os donos das roupas e produtos usados, sejam eles pessoas físicas ou lojistas, em busca de maior divulgação para seus produtos à venda, não havendo qualquer delimitação de faixa etária, gênero, profissão ou renda.
