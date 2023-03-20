@@ -8,6 +8,14 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
+Nome: Maria
+Idade: 40 anos
+Profissão: Proprietária de uma loja de brechó
+Perfil: Maria é uma empreendedora apaixonada por moda e sustentabilidade. Ela acredita que a moda pode ser uma forma de expressão pessoal e que também pode ter um impacto positivo no meio ambiente. Ela também é uma pessoa empática e valoriza a experiência de seus clientes, buscando criar um ambiente acolhedor e amigável em sua loja.
+Maria é uma pessoa muito ocupada e trabalha muito para garantir que sua loja esteja sempre atualizada e oferecendo as melhores peças. Ela é muito exigente com a qualidade das peças que vende e se preocupa em oferecer um bom atendimento. Ela também valoriza a responsabilidade social e procura formas de apoiar a comunidade local.
+Objetivos: Ela está sempre em busca de novas peças e tendências para sua loja e se preocupa em garantir que cada peça tenha qualidade e esteja em boas condições. Ela também se preocupa em oferecer preços justos e acessíveis para seus clientes e em criar um ambiente acolhedor e amigável em sua loja. 
+Desafios: Como proprietária de uma loja de brechó, Maria enfrenta vários desafios diários. Ela também precisa lidar com a concorrência de outras lojas de brechó e de grandes varejistas. Além disso, ela se preocupa em promover a sustentabilidade e a responsabilidade social em sua loja, o que pode ser um desafio em uma sociedade que ainda não valoriza tanto esses aspectos. Maria precisa ser criativa e persistente para enfrentar esses desafios e garantir o sucesso de sua loja de brechó.
+
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
