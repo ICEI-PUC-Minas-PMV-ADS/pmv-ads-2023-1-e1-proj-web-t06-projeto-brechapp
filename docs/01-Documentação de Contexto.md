@@ -2,7 +2,7 @@
 
 A cada dia mais pessoas buscam um consumo consciente em diversos setores de sua existência, como por exemplo, na alimentação e na utilização de roupas e eletrônicos. O consumo consciente é uma tendência global e atinge o modo como as pessoas compram suas roupas, havendo, cada vez mais, uma grande preocupação com o desperdício e com a sustentabilidade.
 
-Atualmente, a chamada "fast fashion" (tendência de utilizar roupas "descartáveis", mais baratas e sem durabilidade) está em crise, devido aos impactos causados ao meio ambiente e as constantes denúncias de uso de trabalho escravo[^1][^2][^3], fazendo com que os brechós voltassem à moda.
+Atualmente, a chamada "fast fashion" (tendência de utilizar roupas "descartáveis", mais baratas e sem durabilidade) está em crise, devido aos impactos causados ao meio ambiente e as constantes denúncias de uso de trabalho escravo (LEGNAIOLI, 2023; ALCOFORADO, 2022; ...)[^1][^2][^3], fazendo com que os brechós voltassem à moda.
 
 A reutilização e a remodelagem de roupas antigas (ou apenas usadas poucas vezes) e de qualidade cresce a cada dia e, para atender a tal demanda, faz-se necessário conectar vendedores e compradores.
 
