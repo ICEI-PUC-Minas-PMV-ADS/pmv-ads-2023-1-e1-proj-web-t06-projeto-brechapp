@@ -32,8 +32,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |------------------------------------|------------------------------------|----------------------------------------|
 |Usuário (vendedor) do sistema       | Expor as roupas para os compradores                      | Aumentar visibilidade e convenção de vendas|
 |Usuário (vendedor) do sistema       | Entrar em contato com os compradores                     |Coletar informações sobre o mercado e vender produtos|
-|Usuário (vendedor) do sistema       | Verificar a quantidade de acessos aos produtos expostos  | Analisar quais peças possuem maior demanda |
-|Usuário (comprador) do sistema      | Pesquisar peças de roupas                                | Localizar produtos de meu interesse        |
+|Usuário (vendedor) do sistema       | Analisar quais peças possuem maior demanda               | Melhorar a eficiência do estoque e identificar tendências |
+|Usuário (comprador) do sistema      | Localizar produtos de meu interesse                      | Obter um produto que satisfaça minha necessidade tendo uma boa qualidade e preço acessível        |
 
 
 
