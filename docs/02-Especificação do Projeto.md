@@ -30,7 +30,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`                | QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |------------------------------------|------------------------------------|----------------------------------------|
-|Usuário (vendedor) do sistema       | Expor as roupas para os compradores                      | Aumentar convenção de vendas       |
+|Usuário (vendedor) do sistema       | Expor as roupas para os compradores                      | Aumentar visibilidade e convenção de vendas|
 |Usuário (vendedor) do sistema       | Receber mensagens dos compradores                        | Entrar em contato com os compradores       |
 |Usuário (vendedor) do sistema       | Verificar a quantidade de acessos aos produtos expostos  | Analisar quais peças possuem maior demanda |
 |Usuário (comprador) do sistema      | Pesquisar peças de roupas                                | Localizar produtos de meu interesse        |
