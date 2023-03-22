@@ -7,16 +7,16 @@ A solução proposta é a criação de uma plataforma onde vendedores possam exp
 ## Personas
 
 ------------------------------
-### Maria (Dona do Brechó)
+### Maria Luiza (Dona do Brechó)
 
 <img src="https://user-images.githubusercontent.com/127263189/226771461-84cf5069-f577-4ae6-8c87-6f5c2ab34330.jpg"  width="300px" />
 
-Maria é uma empreendedora apaixonada por moda e sustentabilidade. Ela acredita que a moda pode ser uma forma de expressão pessoal e que também pode ter um impacto positivo no meio ambiente. Ela também é uma pessoa empática e valoriza a experiência de seus clientes, buscando criar um ambiente acolhedor e amigável em sua loja.
-Maria é uma pessoa muito ocupada e trabalha muito para garantir que sua loja esteja sempre atualizada e oferecendo as melhores peças. Ela é muito exigente com a qualidade das peças que vende e se preocupa em oferecer um bom atendimento. Ela também valoriza a responsabilidade social e procura formas de apoiar a comunidade local.
+Maria Luiza é uma empreendedora apaixonada por moda e sustentabilidade. Ela acredita que a moda pode ser uma forma de expressão pessoal e que também pode ter um impacto positivo no meio ambiente. Ela também é uma pessoa empática e valoriza a experiência de seus clientes, buscando criar um ambiente acolhedor e amigável em sua loja.
+Maria Luiza é uma pessoa muito ocupada e trabalha muito para garantir que sua loja esteja sempre atualizada e oferecendo as melhores peças. Ela é muito exigente com a qualidade das peças que vende e se preocupa em oferecer um bom atendimento. Ela também valoriza a responsabilidade social e procura formas de apoiar a comunidade local.
 
 Ela está sempre em busca de novas peças e tendências para sua loja e se preocupa em garantir que cada peça tenha qualidade e esteja em boas condições. Ela também se preocupa em oferecer preços justos e acessíveis para seus clientes e em criar um ambiente acolhedor e amigável em sua loja. 
 
-Como proprietária de uma loja de brechó, Maria enfrenta vários desafios diários. Ela também precisa lidar com a concorrência de outras lojas de brechó e de grandes varejistas. Além disso, ela se preocupa em promover a sustentabilidade e a responsabilidade social em sua loja, o que pode ser um desafio em uma sociedade que ainda não valoriza tanto esses aspectos. Maria precisa ser criativa e persistente para enfrentar esses desafios e garantir o sucesso de sua loja de brechó.
+Como proprietária de uma loja de brechó, Maria Luiza enfrenta vários desafios diários. Ela também precisa lidar com a concorrência de outras lojas de brechó e de grandes varejistas. Além disso, ela se preocupa em promover a sustentabilidade e a responsabilidade social em sua loja, o que pode ser um desafio em uma sociedade que ainda não valoriza tanto esses aspectos. Maria Luiza precisa ser criativa e persistente para enfrentar esses desafios e garantir o sucesso de sua loja de brechó.
 
 -------------------------------
 
