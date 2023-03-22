@@ -6,6 +6,11 @@ A solução proposta é a criação de uma plataforma onde vendedores possam exp
 
 ## Personas
 
+------------------------------
+### Maria (Dona do Brechó)
+
+<img src="https://user-images.githubusercontent.com/127263189/226771461-84cf5069-f577-4ae6-8c87-6f5c2ab34330.jpg"  width="300px" />
+
 Maria é uma empreendedora apaixonada por moda e sustentabilidade. Ela acredita que a moda pode ser uma forma de expressão pessoal e que também pode ter um impacto positivo no meio ambiente. Ela também é uma pessoa empática e valoriza a experiência de seus clientes, buscando criar um ambiente acolhedor e amigável em sua loja.
 Maria é uma pessoa muito ocupada e trabalha muito para garantir que sua loja esteja sempre atualizada e oferecendo as melhores peças. Ela é muito exigente com a qualidade das peças que vende e se preocupa em oferecer um bom atendimento. Ela também valoriza a responsabilidade social e procura formas de apoiar a comunidade local.
 
