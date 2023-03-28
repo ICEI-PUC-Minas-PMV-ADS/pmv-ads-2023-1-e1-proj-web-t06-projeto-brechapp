@@ -2,7 +2,9 @@
 
 O problema que busca-se resolver com esse projeto é a falta de acesso à maior variedade possível de pessoas físicas e de lojistas que queiram vender e compras peças de roupas antigas e/ou usadas poucas vezes.
 
-A solução proposta é a criação de uma plataforma onde vendedores possam expor peças de roupas usadas e em bom estado de conservação para potenciais compradores.ojeto
+A solução proposta é a criação de uma plataforma onde vendedores possam expor peças de roupas usadas e em bom estado de conservação para potenciais compradores.
+
+O processo de criação das personas foi feito por meio de um esforço conjunto de criação de todo o grupo, que buscou definir os possíveis perfis a serem atendidos pelo projeto.
 
 ## Personas
 
@@ -40,9 +42,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE`            |PARA ... `MOTIVO/VALOR`                                    |
 |---------------------|-----------------------------------------------|-----------------------------------------------------------|
 |Maria Luiza          | Expor as roupas para os compradores           | Melhorar o meu negócio                                    |
-|Maria Luiza          | Entrar em contato com os compradores          | Dar informações sobre os produtos expostos                |
 |Maria Luiza          | Analisar quais peças possuem maior demanda    | Melhorar a eficiência do estoque e identificar tendências |
 |Jonas Souza          | Localizar produtos de meu interesse           | Obter um produto que satisfaça minha necessidade, tendo uma boa qualidade e preço acessível|
+|Jonas Souza          | Entrar em contato com os vendedores           | Obter informações sobre os produtos de meu interesse|
 
 
 
@@ -59,7 +61,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir que o vendedor cadastre as roupas à venda         | ALTA  | 
 |RF-002| Emitir um relatório da quantidade de acessos a cada peça   | MÉDIA |
 |RF-003| Permitir a troca de mensagens entre vendedor e comprador   | MÉDIA |
-|RF-004| Manter um repositório de roupas cadastradas                | ALTA  |
+|RF-004| Permitir a busca por produtos cadastrados                  | ALTA  |
 
 
 ### Requisitos não Funcionais 
@@ -68,7 +70,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-003| Deve haver segurança na troca de dados |  ALTA | 
+|RNF-003| Deve haver segurança no armazenamento dos dados |  ALTA | 
 
 
 
@@ -81,5 +83,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
 |03| O Projeto deverá ser publicado no GitHub              |
+|04| O Projeto deverá ser desenvolvido utilizando HTML, CSS e JavaScript  |
 
 
