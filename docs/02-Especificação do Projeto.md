@@ -7,9 +7,9 @@ A solução proposta é a criação de uma plataforma onde vendedores possam exp
 ## Personas
 
 ------------------------------
-### Maria Luiza Almeida (Dona do Brechó)
+<h3><ins> Maria Luiza Almeida (Dona do Brechó)</ins></h3>
 
-<img src="https://user-images.githubusercontent.com/127263189/226771461-84cf5069-f577-4ae6-8c87-6f5c2ab34330.jpg"  width="300px" />
+<img align="left" src="https://user-images.githubusercontent.com/127263189/226771461-84cf5069-f577-4ae6-8c87-6f5c2ab34330.jpg"  width="300px" />
 
 **Maria Luiza Almeida** é uma empreendedora apaixonada por moda e sustentabilidade. Ela acredita que a moda pode ser uma forma de expressão pessoal e que também pode ter um impacto positivo no meio ambiente. Ela também é uma pessoa empática e valoriza a experiência de seus clientes, buscando criar um ambiente acolhedor e amigável em sua loja.
 
@@ -20,11 +20,11 @@ Ela está sempre em busca de novas peças e tendências para sua loja e se preoc
 Como proprietária de uma loja de brechó, Maria Luiza enfrenta vários desafios diários. Ela precisa lidar com a concorrência de outras lojas de brechó e de grandes varejistas. Além disso, ela se preocupa em promover a sustentabilidade e a responsabilidade social em sua loja, o que pode ser um desafio em uma sociedade que ainda não valoriza tanto esses aspectos. Maria Luiza precisa ser criativa e persistente para enfrentar esses desafios e garantir o sucesso de sua loja de brechó.
 
 -------------------------------
-### Jonas Souza (Comprador de moda sustentável)
+<h3><ins> Jonas Souza (Comprador de moda sustentável)</ins></h3>
 
-<img src="https://img.freepik.com/fotos-gratis/retrato-de-um-belo-sorridente-hipster-elegante-modelo-lambersexual_158538-18003.jpg" width="300px" />
+<img align="left" src="https://img.freepik.com/fotos-gratis/retrato-de-um-belo-sorridente-hipster-elegante-modelo-lambersexual_158538-18003.jpg" width="300px" />
 
-Jonas Souza é um designer gráfico criativo que busca um estilo único e autêntico. Ele valoriza a originalidade e acredita que suas roupas são uma forma de expressar sua personalidade criativa. Ele também é uma pessoa consciente da sustentabilidade e está preocupado com o impacto de suas escolhas no meio ambiente. Por isso, ele prefere comprar roupas usadas em vez de comprar novas, já que isso ajuda a reduzir o desperdício de recursos naturais.
+<strong> Jonas Souza</strong>  é um designer gráfico criativo que busca um estilo único e autêntico. Ele valoriza a originalidade e acredita que suas roupas são uma forma de expressar sua personalidade criativa. Ele também é uma pessoa consciente da sustentabilidade e está preocupado com o impacto de suas escolhas no meio ambiente. Por isso, ele prefere comprar roupas usadas em vez de comprar novas, já que isso ajuda a reduzir o desperdício de recursos naturais.
 
 Jonas é um cliente exigente e busca peças de qualidade que possam durar muito tempo. Ele não se importa em pagar um pouco mais por peças que valem a pena, desde que estejam em boas condições. Ele também é um cliente que gosta de explorar e descobrir novas lojas de brechó, e adora garimpar peças raras. 
 
@@ -49,7 +49,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 
 ## Requisitos 
-
+daadfa
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
