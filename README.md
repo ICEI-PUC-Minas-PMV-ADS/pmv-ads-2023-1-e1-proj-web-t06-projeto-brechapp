@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# BrechApp
 
 `CURSO: Análise e Desenvolvimento de Sistemas`
 
@@ -16,6 +16,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Lucas Antonio Miranda da Silva
 * Marlon Albert Rodrigues Dias
 * Peterson Alves Gervazio
+* Rafael Brandão
 
 ## Orientador
 
