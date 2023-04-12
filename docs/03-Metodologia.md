@@ -44,13 +44,36 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 -	Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontas para ser entregues ao usuário. Não há mais edições ou revisões necessárias.
 
 O quadro kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível na aba "projects" do GitHub.
-Atualmente, esta é a tela do quadro do projeto:
 
-![image](https://user-images.githubusercontent.com/125296093/230984787-d1a926ff-5196-4ac0-ab71-151af470b339.png)
+O desenvolvimento do projeto foi feito em 5 etapas (sprints):
 
-Inicialmente a equipe fez o desenvolvimento da introdução do projeto, identificando os principais problemas, objetivos e a justificativa para escolha do tema. Depois, foram pesquisados trabalhos relacionados e foi identificado o público alvo.
+#### Etapa 1
+- Planejamento: Elaboração de 2 documentos: "documentação de contexto" (introdução, problema, objetivos, justificativa, trabalhos relacionados e público alvo) e "especificações do projeto" (personas, histórias de usuários, requisitos e restrições).
+- Execução: A equipe fez reuniões e discutiu a construção dos documentos e a criação das personas.
+- Evidências: Entrega da etapa 1 no dia 02/04/2023.
 
-Foi feito o levantamento das necessidades dos usuários, construindo-se duas personas que poderiam se interessar pela utilização da aplicação a ser desenvolvida. A partir dessas personas, então, fez-se o levantamento dos requisitos funcionais e não funcionais da aplicação.
+#### Etapa 2
+- Planejamento: Elaboração de 2 documentos: "metodologia" (relação de ambientes de trabalho e gerenciamento de projeto) e "projeto de interface" (userflow e wireframes).
+- Execução: Foi feita a divisão de papéis e a construção dos tópicos "processo" e "ferramentas". A equipe de desenvolvimento trabalhou nos fluxos de usuários e na construção das telas da aplicação.
+![image](https://user-images.githubusercontent.com/125296093/231443809-39bfff85-8ce9-4f51-b478-3c06c62cbfb8.png)
+
+- Evidências: 
+
+#### Etapa 3
+- Planejamento:
+- Execução:
+- Evidências:
+
+#### Etapa 4
+- Planejamento:
+- Execução:
+- Evidências:
+
+#### Etapa 5
+- Planejamento:
+- Execução:
+- Evidências:
+
 
 
 ### Ferramentas
