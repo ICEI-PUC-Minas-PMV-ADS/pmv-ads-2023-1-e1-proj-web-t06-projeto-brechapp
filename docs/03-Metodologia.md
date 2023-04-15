@@ -83,6 +83,7 @@ As ferramentas empregadas no projeto são:
 - Editor de código: VSCode.
 - Ferramentas de comunicação: WhatsApp, Discord.
 - Ferramentas de desenho de tela (_wireframing_): Figma
+- Plataforma de comunicação visual (_UserFlow)_: Miro
 
 O editor de código foi escolhido porque ele possui uma integração com o sistema de versão e foi trabalhado em um dos microfundamentos de estudo do semestre.
 
