@@ -8,7 +8,6 @@ O processo de criação das personas foi feito por meio de um esforço conjunto 
 
 ## Personas
 
-------------------------------
 <h3><ins> Maria Luiza Almeida (Dona do Brechó)</ins></h3>
 
 <img align="left" src="https://user-images.githubusercontent.com/127263189/226771461-84cf5069-f577-4ae6-8c87-6f5c2ab34330.jpg"  width="300px" />
@@ -21,7 +20,7 @@ Ela está sempre em busca de novas peças e tendências para sua loja e se preoc
 
 Como proprietária de uma loja de brechó, Maria Luiza enfrenta vários desafios diários. Ela precisa lidar com a concorrência de outras lojas de brechó e de grandes varejistas. Além disso, ela se preocupa em promover a sustentabilidade e a responsabilidade social em sua loja, o que pode ser um desafio em uma sociedade que ainda não valoriza tanto esses aspectos. Maria Luiza precisa ser criativa e persistente para enfrentar esses desafios e garantir o sucesso de sua loja de brechó.
 
--------------------------------
+
 <h3><ins> Jonas Souza (Comprador de moda sustentável)</ins></h3>
 
 <img align="left" src="https://img.freepik.com/fotos-gratis/retrato-de-um-belo-sorridente-hipster-elegante-modelo-lambersexual_158538-18003.jpg" width="300px" />
@@ -51,7 +50,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 
 ## Requisitos 
-daadfa
+
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
