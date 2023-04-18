@@ -5,9 +5,9 @@
 
 A metodologia contempla as definições de ferramental utilizado pela equipe tanto para a manutenção dos códigos e demais artefatos quanto para a organização do time na execução das tarefas do projeto.
 
-## Relação de Ambientes de Trabalho
+## Ferramentas
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue:
+As ferramentas empregadas no projeto são:
 
 |Ambiente|Plataforma|
 |---|---|
@@ -15,6 +15,21 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |Gerenciamento do projeto|GitHub Projects|
 |Comunicação da equipe|WhatsApp|
 |Comunicação da equipe|Discord|
+|Comunicação da equipe|Teams|
+|Editor de código|VSCode|
+|Desenho de telas (wireframing)|Figma|
+|Comunicação visual|Miro|
+
+
+O editor de código foi escolhido porque ele possui uma integração com o sistema de versão e foi trabalhado em um dos microfundamentos de estudo do semestre.
+
+As ferramentas de comunicação utilizadas são de fácil e ampla utilização e possibilitam a comunicação rápida entre a equipe. 
+
+Para criar diagramas utilizamos o Figma por melhor captar as necessidades da nossa solução.
+
+Por fim, foi utilizado o Miro para a criação do UserFlow.
+
+
 
 
 
@@ -50,14 +65,14 @@ O desenvolvimento do projeto foi feito em 5 etapas (sprints):
 #### Etapa 1
 - Planejamento: Elaboração de 2 documentos: "documentação de contexto" (introdução, problema, objetivos, justificativa, trabalhos relacionados e público alvo) e "especificações do projeto" (personas, histórias de usuários, requisitos e restrições).
 - Execução: A equipe fez reuniões e discutiu a construção dos documentos e a criação das personas.
-- Evidências: Entrega da etapa 1 no dia 02/04/2023.
+- Evidências: Entrega dos documentos "Documentação de contexto" e "Especificação do projeto" no dia 02/04/2023.
 
 #### Etapa 2
 - Planejamento: Elaboração de 2 documentos: "metodologia" (relação de ambientes de trabalho e gerenciamento de projeto) e "projeto de interface" (userflow e wireframes).
 - Execução: Foi feita a divisão de papéis e a construção dos tópicos "processo" e "ferramentas". A equipe de desenvolvimento trabalhou nos fluxos de usuários e na construção das telas da aplicação.
 ![image](https://user-images.githubusercontent.com/125296093/231443809-39bfff85-8ce9-4f51-b478-3c06c62cbfb8.png)
 
-- Evidências: 
+- Evidências: Entrega dos documentos "Metodologia" e "Projeto de interface" no dia 23/04/2023.
 
 #### Etapa 3
 - Planejamento:
@@ -76,20 +91,4 @@ O desenvolvimento do projeto foi feito em 5 etapas (sprints):
 
 
 
-### Ferramentas
-
-As ferramentas empregadas no projeto são:
-
-- Editor de código: VSCode.
-- Ferramentas de comunicação: WhatsApp, Discord.
-- Ferramentas de desenho de tela (_wireframing_): Figma
-- Plataforma de comunicação visual (_UserFlow)_: Miro
-
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão e foi trabalhado em um dos microfundamentos de estudo do semestre.
-
-As ferramentas de comunicação utilizadas são de fácil e ampla utilização e possibilitam a comunicação rápida entre a equipe. 
-
-Para criar diagramas utilizamos o Figma por melhor captar as necessidades da nossa solução.
-
-Por fim, foi utilizado o Miro para a criação do UserFlow.
 
