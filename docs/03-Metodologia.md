@@ -60,7 +60,19 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível na aba "projects" do GitHub.
 
-O desenvolvimento do projeto foi feito em 5 etapas (sprints):
+O desenvolvimento do projeto foi feito em 5 etapas (sprints), levando-se em consideração o backlog do produto planejado:
+
+#### Backlog do produto
+- E1 - Documentação de contexto (problema, objetivos, justificativa, trabalhos relacionados, público alvo)
+- E1 - Especificação do projeto (personas, histórias de usuários, requisitos, restrições)
+- E2 - Metodologia (ferramentas, gerenciamento de projeto)
+- E2 - Projeto de interface (user flow, wireframes)
+- E3 - xxx
+- E3 - xxx
+- E4 - xxx
+- E4 - xxx
+- E5 - xxx
+- E5 - xxx
 
 #### Etapa 1
 - Planejamento: Elaboração de 2 documentos: "documentação de contexto" (introdução, problema, objetivos, justificativa, trabalhos relacionados e público alvo) e "especificações do projeto" (personas, histórias de usuários, requisitos e restrições).
