@@ -89,5 +89,7 @@ O editor de código foi escolhido porque ele possui uma integração com o siste
 
 As ferramentas de comunicação utilizadas são de fácil e ampla utilização e possibilitam a comunicação rápida entre a equipe. 
 
-Por fim, para criar diagramas utilizamos o Figma por melhor captar as necessidades da nossa solução.
+Para criar diagramas utilizamos o Figma por melhor captar as necessidades da nossa solução.
+
+Por fim, foi utilizado o Miro para a criação do UserFlow.
 
