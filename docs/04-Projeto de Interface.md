@@ -8,7 +8,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-![Exemplo de UserFlow](https://user-images.githubusercontent.com/127263189/232636170-183cb48c-a58b-4c6a-931b-7f0962cbf8b0.jpg)
+![Exemplo de UserFlow](https://user-images.githubusercontent.com/127263189/233222317-e80931e1-29f2-4dae-a567-97812dac210c.jpg)
 
 
 
