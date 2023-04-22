@@ -22,3 +22,4 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 ## Wireframes
 
 ![Exemplo de Wireframe](https://user-images.githubusercontent.com/128766835/232623522-68d552b5-4551-46de-bfb5-5842cb40d870.png)
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/blob/main/docs/img/Wireframes/P%C3%A1gina%20Inicial%20Deslogado.jpg"/>
