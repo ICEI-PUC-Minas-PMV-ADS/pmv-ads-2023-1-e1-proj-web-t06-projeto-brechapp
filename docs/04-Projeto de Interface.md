@@ -21,5 +21,39 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Wireframes
 
-![Exemplo de Wireframe](https://user-images.githubusercontent.com/128766835/232623522-68d552b5-4551-46de-bfb5-5842cb40d870.png)
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/blob/main/docs/img/Wireframes/P%C3%A1gina%20Inicial%20Deslogado.jpg"/>
+Página Inicial (Deslogado)
+![Exemplo de Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/blob/main/docs/img/Wireframes/P%C3%A1gina%20Inicial%20Deslogado.jpg)
+
+Tela Inicial de Cadastro
+![Exemplo de Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/blob/main/docs/img/Wireframes/Tela%20Inicial%20de%20Cadastro.jpg)
+
+Tela de Cadastro
+![Exemplo de Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/blob/main/docs/img/Wireframes/Tela%20de%20Cadastro.jpg)
+
+Tela do Produto
+![Exemplo de Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/blob/main/docs/img/Wireframes/Tela%20do%20Produto.jpg)
+
+Página Inicial (Cliente)
+![Exemplo de Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/blob/main/docs/img/Wireframes/P%C3%A1gina%20Inicial%20(Cliente).jpg)
+
+Ver Perfil da Loja (Visão do Cliente)
+![Exemplo de Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/blob/main/docs/img/Wireframes/Ver%20Perfil%20da%20Loja%20(Vis%C3%A3o%20Cliente).jpg)
+
+Chat com o Vendedor (Visão do Cliente)
+![Exemplo de Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/blob/main/docs/img/Wireframes/Chat%20com%20Vendedor(Vis%C3%A3o%20Cliente).jpg)
+
+Tela de login
+![Exemplo de Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/blob/main/docs/img/Wireframes/Tela%20de%20Login.jpg)
+
+Página Inicial Logado (Vendedor)
+![Exemplo de Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/blob/main/docs/img/Wireframes/P%C3%A1gina%20Inicial%20Logado%20(Vendedor).jpg)
+
+Perfil da Loja (Vendedor)
+![Exemplo de Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/blob/main/docs/img/Wireframes/Perfil%20da%20Loja%20(Vendedor).jpg)
+
+Anunciar (Vendedor)
+![Exemplo de Wireframe]()
+
+
+
+
