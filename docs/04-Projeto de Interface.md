@@ -52,8 +52,11 @@ Perfil da Loja (Vendedor)
 ![Exemplo de Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/blob/main/docs/img/Wireframes/Perfil%20da%20Loja%20(Vendedor).jpg)
 
 Anunciar (Vendedor)
-![Exemplo de Wireframe]()
+![Exemplo de Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/blob/main/docs/img/Wireframes/AnunciarProduto(%20Visao%20Vendedor).jpg)
 
+
+Wireframe Completo
+![Exemplo de Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/blob/main/docs/img/Wireframes/wireframeOrdem.jpg)
 
 
 
