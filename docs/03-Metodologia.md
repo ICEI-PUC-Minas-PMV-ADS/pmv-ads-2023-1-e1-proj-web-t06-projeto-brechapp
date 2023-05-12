@@ -89,7 +89,7 @@ O desenvolvimento do projeto foi feito em 5 etapas (sprints), levando-se em cons
 #### Etapa 3
 - Planejamento: Elaboração do código fonte (HTML e CSS) da página inicial do site e desenvolvimento da funcionalidade de listagem de produtos.
 - Execução: Os códigos e a funcionalidade escolhida foram desenvolvidos pelo time de desenvolvimento e inseridos na pasta "src" do GitHub.
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/assets/125296093/cfce4810-5c0f-4311-8852-919f2984e284)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/assets/125296093/90a6a97e-f1e5-46fe-be2f-cd7f91f999b6)
 
 - Evidências: Entrega do documento "Template padrão do site" no dia 14/05/2023.
 
