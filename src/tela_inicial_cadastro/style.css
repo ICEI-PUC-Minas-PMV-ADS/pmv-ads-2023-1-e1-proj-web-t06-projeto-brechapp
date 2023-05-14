@@ -58,13 +58,28 @@ height: 200px;
   font-family: 'impact';
 display: grid;
 }
-.pclt1{
-  font-size: 25px;
-  margin-left: 50px;
+.btnclt{
+  background-color: transparent;
+  border-color: brown;
+  color: #000000;
+  padding: 10px;
+  font-size: 20pt;
+  margin-top: 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+  transition: all .4s ease-out;
+  font-family: impact;
+}
+.btnclt:hover{
+  background-color: brown;
+  color: #fff;
+  border-color: rgb(0, 0, 0);
 }
 .pclt2{
   font-size: 25px;
   margin-left: 25px;
+  cursor: pointer;
 }
 .paragrafo1{
   margin-top: 50px;
@@ -78,7 +93,18 @@ display: grid;
 .FONTLOG{
 display: flex;
 justify-content: center;
-margin-top: 70px;
-font-size: 20px;
+margin-top: 150px;
+font-size: 25px;
+}
 
+a{
+  color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+  transition: all .3s ease-out;
+
+}
+a:hover{
+  color: brown;
+ 
 }
