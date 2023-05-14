@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.manutençao{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+.img-manutençao{
+  width: 100%;
+  height: 100%;
+}
