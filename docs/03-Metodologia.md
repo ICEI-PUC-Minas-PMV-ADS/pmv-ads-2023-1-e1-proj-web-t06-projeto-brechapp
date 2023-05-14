@@ -87,7 +87,7 @@ O desenvolvimento do projeto foi feito em 5 etapas (sprints), levando-se em cons
 - Evidências: Entrega dos documentos "Metodologia" e "Projeto de interface" no dia 23/04/2023.
 
 #### Etapa 3
-- Planejamento: Elaboração do código fonte (HTML e CSS) da página inicial do site e desenvolvimento da funcionalidade de listagem de produtos.
+- Planejamento: Elaboração do código fonte (HTML e CSS) da página inicial do site e desenvolvimento da funcionalidade de login.
 - Execução: Os códigos e a funcionalidade escolhida foram desenvolvidos pelo time de desenvolvimento e inseridos na pasta "src" do GitHub.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/assets/125296093/aabd9eb6-545e-486d-89d8-acb07c2b5533)
 
