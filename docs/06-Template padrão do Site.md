@@ -8,6 +8,11 @@ Disponível em: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-
 
 ## Tela inicial de cadastro
 
+Disponível em: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/src/tela_inicial_cadastro/index.html
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/assets/125296093/0f0dd5e6-5f8e-4e78-84cb-2dd64f114fdf)
+
+
 ## Tela de cadastro
 
 Disponível em: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/src/tela_cadastro/index.html
