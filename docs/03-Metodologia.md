@@ -89,7 +89,7 @@ O desenvolvimento do projeto foi feito em 5 etapas (sprints), levando-se em cons
 #### Etapa 3
 - Planejamento: Elaboração do código fonte (HTML e CSS) da página inicial do site e desenvolvimento da funcionalidade de login.
 - Execução: Os códigos e a funcionalidade escolhida foram desenvolvidos pelo time de desenvolvimento e inseridos na pasta "src" do GitHub.
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/assets/125296093/aabd9eb6-545e-486d-89d8-acb07c2b5533)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/assets/125296093/398c4842-6a4e-44eb-a903-c9e8be02f5d0)
 
 - Evidências: Entrega do documento "Template padrão do site" no dia 14/05/2023.
 
