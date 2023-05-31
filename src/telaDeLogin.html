@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="js/telaDeLogin.js" defer></script>
+    <title>BrechApp - Login</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="css/telaDeLogin.css" />
+  </head>
+  <body>
+    <header class="header">
+      <img src="imgs/logo.png" alt="logo" />
+    </header>
+
+    <h1>Faça seu login:</h1>
+    <div id="msgError"></div>
+    <div class="container">
+      <div class="login-container">
+        <label id="labelText" for="email">Usuario:</label>
+        <input
+          type="text"
+          id="text"
+          name="email"
+          placeholder="Digite o nome do usuario"
+        />
+
+        <label id="labelPassword" for="password">Senha:</label>
+        <input
+          type="password"
+          id="password"
+          name="password"
+          placeholder="Digite sua senha"
+        />
+
+        <input
+          id="onclickSubmit"
+          type="submit"
+          value="Concluir"
+          class="concluir"
+          onclick="entrar ()"
+        />
+
+        <div class="text-content">
+          <a><strong>Não possui uma conta? </strong></a>
+          <div class="cadastro">
+            <a href="telaDeCadastro.html">
+              Cadastre-se aqui!</a
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
