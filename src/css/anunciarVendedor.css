@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: #000;
+
+}
+.links{
+    display: flex;
+    margin-top: 16px;
+}
+
+.links a{
+    text-decoration: none;
+    color: #FFF;
+    margin-right: 38px;
+    font-size: 18px;
+}
+.links li{
+    list-style: none;
+}
+
+.links li:hover{
+    border-bottom: 2px solid #FFF;
+}
+.user{
+    background-color: #D9D9D9;
+    padding: 10px 40px;
+    margin-top: -10px;
+    border-radius: 20px;
+    margin-left: 20px;
+    color: #000;
+    transition: 1s;
+
+}
+.user:hover{
+    transform: scale(1.1);
+}
+
+.concluir{
+    width: 241px;
+    height: 64px;
+    box-shadow: 4px 4px 4px #000;
+    font-weight: 700;
+    background-color: #2BE71B;
+    color: #FFF;
+    border: 0;
+    transition: 1s;
+    cursor: pointer;
+}
+.nav-button{
+    margin-top: 45px;
+    margin-left: 350px;
+}
+.concluir:hover{
+    transform: scale(1.1);
+}
+
+
+.title{
+    display: flex;
+    justify-content: left;
+    margin-bottom: 20px;
+    margin-left: 56px;
+    margin-top: 67px;
+}
+.divisor{
+    display: flex;
+    /* justify-content: ; */
+    border-right: 1px solid #000;
+}
+.categoria{
+margin-left: 56px;
+margin-right: 170px;
+}
+
+
+#titulo{
+    width: 541px;
+    height: 35px;
+}
+
+#descricao{
+    width: 541px;
+    height: 90px;
+}
