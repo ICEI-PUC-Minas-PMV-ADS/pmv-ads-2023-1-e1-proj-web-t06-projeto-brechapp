@@ -53,4 +53,11 @@ Disponível em: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/assets/125296093/7ba25525-7ec6-4a76-bb4b-7b9df5999fdc)
 
 
-## Anunciar (vendedor) (em construção)
+## Anunciar (vendedor) 
+
+Disponível em: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/src/anunciarVendedor.html
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/assets/125296093/d6fc2c0a-6509-4648-a9f3-a97eca3df6cb)
+
+
+
