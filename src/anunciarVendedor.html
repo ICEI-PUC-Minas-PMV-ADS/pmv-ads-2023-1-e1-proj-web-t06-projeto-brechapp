@@ -1,85 +1,107 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="js/script.js" defer></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,500;0,600;0,700;1,100;1,200;1,300;1,500&display=swap"
-        rel="stylesheet">
-    <link rel="stylesheet" href="css/anunciarVendedor.css">
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,500;0,600;0,700;1,100;1,200;1,300;1,500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/divisor.css" />
+    <link rel="stylesheet" href="css/formulario.css" />
+    <link rel="stylesheet" href="css/concluir.css" />
     <title>Anunciar</title>
-</head>
+  </head>
 
-<body>
+  <body>
     <header class="navbar">
-            <img src="imgs/logo.png" alt="" />
-            <ul class="links">
-                <a href="#anunciar">
-                    <li>Anunciar</li>
-                </a>
-                <a href="#meus-anuncios">
-                    <li>Meus Anúncios</li>
-                </a>
-                <a href="#chat">
-                    <li>Chat</li>
-                </a>
-                <a href="#nome">
-                    <li class="user">Nome</li>
-                </a>
-            </ul>
-        </header>
+      <img src="assets/logo.png" alt="" />
+      <ul class="links">
+        <a href="#anunciar">
+          <li>Anunciar</li>
+        </a>
+        <a href="#meus-anuncios">
+          <li>Meus Anúncios</li>
+        </a>
+        <a href="#chat">
+          <li>Chat</li>
+        </a>
+        <a href="#nome">
+          <li class="user">Nome</li>
+        </a>
+      </ul>
+    </header>
     <main>
-        <section>
-            <div>
-                <h1 class="title">Criar novo Anúncio</h1>
-            </div>
-            <section class="divisor">
-                <aside class="categoria">
-                    <h2>Categoria</h2>
-                    <input type="radio" name="acessorios" id="acessiorios"> Acessórios <br>
-                    <input type="radio" name="acessorios" id="acessiorios"> Beleza <br>
-                    <input type="radio" name="acessorios" id="acessiorios"> Calçados <br>
-                    <input type="radio" name="acessorios" id="acessiorios"> Roupas <br>
-                    <input type="radio" name="acessorios" id="acessiorios"> Bolsas <br>
-                    <input type="radio" name="acessorios" id="acessiorios"> Móveis <br>
-                    <input type="radio" name="acessorios" id="acessiorios"> Brinquedos<br>
-                    <input type="radio" name="acessorios" id="acessiorios"> Esportes<br>
-                </aside>
+      <section>
+        <div id="msgSucess"></div>
+        <div>
+          <h1 class="title">Criar novo Anúncio</h1>
+        </div>
+        <section class="divisor">
+          <aside class="categoria">
+            <h2>Categoria</h2>
+            <input type="radio" name="acessorios" id="acessiorios" /> Acessórios
+            <br />
+            <input type="radio" name="acessorios" id="acessiorios" /> Beleza
+            <br />
+            <input type="radio" name="acessorios" id="acessiorios" /> Calçados
+            <br />
+            <input type="radio" name="acessorios" id="acessiorios" /> Roupas
+            <br />
+            <input type="radio" name="acessorios" id="acessiorios" /> Bolsas
+            <br />
+            <input type="radio" name="acessorios" id="acessiorios" /> Móveis
+            <br />
+            <input type="radio" name="acessorios" id="acessiorios" />
+            Brinquedos<br />
+            <input type="radio" name="acessorios" id="acessiorios" />
+            Esportes<br />
+          </aside>
 
-                <aside class="formulario">
-                    <p class="error" style="display: none; color: red;"></p>
-                    <p class="validated" style="display: none; color: green;"></p>
-                    <p>Título</p>
-                    <input type="text" name="titulo" id="titulo" placeholder="Digite o Título do produto">
-                    
-                    <p>Descrição</p>
-                    <input type="text" name="descricao" id="descricao">
-                    <p class="error" style="display: none; color: red;"></p>
+          <aside class="formulario">
+            <p class="error" style="display: none; color: red"></p>
+            <p class="validated" style="display: none; color: green"></p>
+            <p>Título</p>
+            <input
+              type="text"
+              name="titulo"
+              id="titulo"
+              placeholder="Digite o Título do produto"
+            />
 
-                    <p>Preço</p>
-                    <input type="text" name="preco" id="preco" placeholder="R$ 100,00">
+            <p>Descrição</p>
+            <input type="text" name="descricao" id="descricao" />
+            <p class="error" style="display: none; color: red"></p>
 
-                    <p>Fotos (Adicione até 5 Fotos)</p>
-                    <img id="foto" alt="" width="100" height="100" />
-                    <input type="file"
-                        onchange="document.getElementById('foto').src = window.URL.createObjectURL(this.files[0])">
-                </aside>
+            <p>Preço</p>
+            <input
+              type="text"
+              name="preco"
+              id="preco"
+              placeholder="R$ 100,00"
+            />
 
-            </section>
-
-            <div class="nav-button">
-                <button class="concluir" onclick="validarInput()">CONCLUIR</button>
-            </div>
-
+            <p>Fotos (Adicione até 5 Fotos)</p>
+            <img id="foto" alt="" width="100" height="100" />
+            <input
+              type="file"
+              id="photo"
+              onchange="document.getElementById('foto').src = window.URL.createObjectURL(this.files[0])"
+            />
+          </aside>
         </section>
 
+        <div class="nav-button">
+          <button class="concluir" id="bottanenvio" onclick="validarInput()">
+            CONCLUIR
+          </button>
+        </div>
+      </section>
     </main>
-
-    <script src="js/anunciarVendedor.js"></script>
-</body>
-
+  </body>
 </html>
