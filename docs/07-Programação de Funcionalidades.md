@@ -1,15 +1,27 @@
-# Programação de Funcionalidades
+# Funcionalidades do Sistema
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+Nessa sessão serão expostas as funcionalidades operacionais do sistema, em ordem de prioridade, elaboradas pelo grupo.
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+## RF - 001: Permitir que o vendedor cadastre as roupas à venda
+Essa funcionalidade permite que o vendedor registre peça por peça de seu estoque no site de modo que hajá um repositório virtual em sua página.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/assets/123324372/a3bea41b-6d89-48b9-aebe-0220ad9fbffb)
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+## RF - 004: Permitir a busca por produtos cadastrados
+O objetivo é facilitar a experiência do comprador e ao mesmo tempo garantir mais visibilidade para os vendededores.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/assets/123324372/4c5ee4d2-ef84-4fa6-ac4e-c180f2607e16)
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+## RF - 002: Emitir um relatório da quantidade de acessos a cada peça
+A finalidade é permitir que o vendedor tenha ciência do quanto suas peças estão chegando aos consumidores, de forma a facilitar as estratégias de marketing de seu comércio.
+
+
+## RF - 003: Permitir a troca de mensagens entre vendedor e comprador
+Essa funcionalidade facilita negociações e o fornecimento de informações úteis entre os dois lados da venda do produto.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/assets/123324372/a1f7ba7a-ea67-4278-b6c9-00b363a6fd2f)
+
+## Login (Cliente/Vendedor já cadastrado)
+Esssa funcionalidade permite que o usuário acesse sua página pessoal cadastrada.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/assets/123324372/ae22e61d-c966-4391-991d-622be77d0947)
+
+
+## Requisitos atendidos: Login
+Não foi possível a conclusão das outras funcionalidades devido à dificuldade que o grupo encontrou em relação ao desenvolvimento dessas. 
