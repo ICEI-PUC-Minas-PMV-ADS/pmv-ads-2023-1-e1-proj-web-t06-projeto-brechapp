@@ -69,8 +69,9 @@ O desenvolvimento do projeto foi feito em 5 etapas (sprints), levando-se em cons
 - E2 - Projeto de interface (user flow, wireframes)
 - E3 - Template padrão do site
 - E3 - Programação de uma funcionalidade (listagem de produtos)
-- E4 - xxx
-- E4 - xxx
+- E4 - Programação de funcionalidades
+- E4 - Plano de testes de software
+- E4 - Registro de testes de software
 - E5 - xxx
 - E5 - xxx
 
@@ -94,9 +95,11 @@ O desenvolvimento do projeto foi feito em 5 etapas (sprints), levando-se em cons
 - Evidências: Entrega do documento "Template padrão do site" no dia 14/05/2023.
 
 #### Etapa 4
-- Planejamento:
-- Execução:
-- Evidências:
+- Planejamento: Continuação do desenvolvimento das funcionalidades previstas inicialmente.
+- Execução: Os códigos e as funcionalidades foram desenvolvidas pelo time de desenvolvimento e inseridos na pasta "src" do GitHub.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp/assets/125296093/2b89b6c9-bac7-40ce-82a9-0e473ccfd91d)
+
+- Evidências: Entrega dos documentos "Programação de Funcionalidades", "Plano de Testes de Software" e "Registro de Testes de Software" no dia 11/06/2023.
 
 #### Etapa 5
 - Planejamento:
