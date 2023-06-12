@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins'; sans-serif;
+  }
+  
+  header {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+  }
+
+  #conversas {
+    margin-right: 70%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+  }
+
+  .chat {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 300px;
+    height: 100px;
+  }
+
+  #texto {
+    width: 200px;
+  }
+
+  #imgg {
+    width: 100%;
+  }
+
+  #img {
+    width: 80px;
+  }
+
+  #nomeloja {
+    color: aliceblue;
+  }
+
+  .chatmain {
+    margin-left: 20px;
+    width: 980px;
+  }
+
+  #divpai {
+    display: flex;
+    flex-direction: row;
+    width: 1300px;
+    height: 600px;
+    margin-top: 20px;
+    margin-left: 100px;
+  }
+
+
+
