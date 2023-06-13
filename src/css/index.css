@@ -70,7 +70,7 @@ body {
 .img-logo {
   width: 40px;
   height: 40px;
-  opacity: 0.;
+  opacity: 0;
 }
 .buttons {
   display: flex;
@@ -83,6 +83,7 @@ body {
 .Buttons-click {
   font-family: "Righteous";
   font-size: 2rem;
+
   color: rgb(0, 0, 0);
   background-color: white;
   padding: 2px 20px 2px 20px;
@@ -94,6 +95,11 @@ body {
 .Buttons-click:hover {
   border-color: red;
 }
+.button-LogCad {
+  text-decoration: none;
+  color: black;
+}
+
 #nav-container {
   display: flex;
   flex-wrap: nowrap;

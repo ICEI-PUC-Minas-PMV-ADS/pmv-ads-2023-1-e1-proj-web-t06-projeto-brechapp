@@ -54,7 +54,7 @@ function cadastrar() {
     msgError.setAttribute("style", "display: none");
 
     setTimeout(() => {
-      window.location = "./telade(login).html";
+      window.location = "./telaDeLogin.html";
     }, 3000);
   } else {
     msgError.setAttribute("style", "display: block");

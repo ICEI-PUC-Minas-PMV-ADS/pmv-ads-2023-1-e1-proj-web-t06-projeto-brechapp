@@ -1,168 +1,175 @@
 * {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0px;
 }
 
 p {
-    font-weight: bold;
-    font-size: smaller;
-    padding: 5px 0px;
+  font-weight: bold;
+  font-size: smaller;
+  padding: 5px 0px;
+}
+.btn-anunciar {
+  text-decoration: none;
+  color: white;
+}
+.chat-vendedor {
+  text-decoration: none;
+  color: white;
 }
 
 .header {
-    background-color: black;
-    color: white;
-    font-weight: bold;
-    height: 90px;
-    font-size: x-small; 
-    display: flex; 
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  height: 90px;
+  font-size: x-small;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
 }
 
 .header ul {
-    padding: 0px;   
+  padding: 0px;
 }
 
 .header li {
-    list-style-type: none;
-    display: inline;
-    padding: 0px;      
+  list-style-type: none;
+  display: inline;
+  padding: 0px;
 }
 
 .social {
-    display: flex;  
-    width: 60%;   
-    align-items: center;
-    justify-content: center;
-    padding: 0px;
+  display: flex;
+  width: 60%;
+  align-items: center;
+  justify-content: center;
+  padding: 0px;
 }
 
 .social img {
-    width: 20px;
-    height: 20px;
-    vertical-align: middle;   
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
 }
 
 .logo {
-    display: flex;
-    width: 60%;   
-    align-items: left;
-    justify-content: left;
-    margin-left: 20px;
+  display: flex;
+  width: 60%;
+  align-items: left;
+  justify-content: left;
+  margin-left: 20px;
 }
 
 .logo img {
-    width: 230px;
-    height: 50px;
+  width: 230px;
+  height: 50px;
 }
 
 .botoes {
-    display: flex;  
-    width: 30%;   
-    align-items: center;
-    justify-content: right;
-    padding: 0px;
+  display: flex;
+  width: 30%;
+  align-items: center;
+  justify-content: right;
+  padding: 0px;
 }
 
 .botoes li {
-    padding: 0px 20px;   
+  padding: 0px 20px;
 }
 
 button {
-    background-color: white;
-    color: black;
-    padding: 10px;
-    border: 0px;
-    border-radius: 15px;
-    font-weight: bold;
+  background-color: white;
+  color: black;
+  padding: 10px;
+  border: 0px;
+  border-radius: 15px;
+  font-weight: bold;
 }
 
 #nome {
-    padding: 15px 40px;
+  padding: 15px 40px;
 }
 
 #chat {
-    background-color: black;
-    color: white;
-    text-decoration: underline;
+  background-color: black;
+  color: white;
+  text-decoration: underline;
 }
 
 main {
-    background-color: white;
-    color: black;
+  background-color: white;
+  color: black;
 }
 
 h1 {
-    padding-left: 100px;
-    padding-top: 50px;
+  padding-left: 100px;
+  padding-top: 50px;
 }
 
 .pesquisa {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 80px;
 }
 
 .pesquisa input {
-    background-color: white;
-    color: grey;
-    padding: 10px;
-    border: 0px;
-    border-radius: 10px;
-    width: 400px;
-    height: 25px;
-    width: 50%;
+  background-color: white;
+  color: grey;
+  padding: 10px;
+  border: 0px;
+  border-radius: 10px;
+  width: 400px;
+  height: 25px;
+  width: 50%;
 }
 
 .container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .produtos {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    width: 60%;
-    padding: 0px; 
-    color: white;
-    font-size: small;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  padding: 0px;
+  color: white;
+  font-size: small;
 }
 
 .produtos li {
-    list-style-type: none;
-    display: inline-block;
-    justify-content: center;
-    align-items: center;
-    padding: 0px 30px 0px 30px;    
-    color: black;
-    width: 40%;
+  list-style-type: none;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 30px 0px 30px;
+  color: black;
+  width: 40%;
 }
 
 .produtos ul {
-    padding: 10px 40px;
+  padding: 10px 40px;
 }
 
 .produtos img {
-    width: 100px;
-    height: 100px;
-    vertical-align: middle;   
+  width: 100px;
+  height: 100px;
+  vertical-align: middle;
 }
 
 .footer {
-    height: 70px;
-    background-color: black;
-    display: flex;  
-    justify-content: center;
-    align-items: center;
+  height: 70px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-
