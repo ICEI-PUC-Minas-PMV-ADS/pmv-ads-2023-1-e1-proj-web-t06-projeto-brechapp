@@ -58,7 +58,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o vendedor cadastre as roupas à venda         | ALTA  | 
-|RF-002| Emitir um relatório da quantidade de acessos a cada peça   | MÉDIA |
+|RF-002| Permitir Cadastro e Login do usuário                       | MÉDIA |
 |RF-003| Permitir a troca de mensagens entre vendedor e comprador   | MÉDIA |
 |RF-004| Permitir a busca por produtos cadastrados                  | ALTA  |
 
