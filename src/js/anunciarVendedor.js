@@ -53,7 +53,7 @@ function validarInput() {
   localStorage.setItem(
     "Produto",
     JSON.stringify({
-      Produto: nameprodut.value,
+      Titulo: nameprodut.value,
       Descriçao: descriçaoprodut.value,
       Preço: moneycash.value,
       Imagem: photoprodut.value,

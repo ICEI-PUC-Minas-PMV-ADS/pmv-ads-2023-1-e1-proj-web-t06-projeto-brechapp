@@ -99,6 +99,23 @@ body {
   text-decoration: none;
   color: black;
 }
+#Sucess {
+  text-align: center;
+  color: #00ff15;
+  background-color: #ff8989;
+  padding: 10px;
+  border-radius: 4px;
+  display: none;
+}
+#msError {
+  color: #ff0000;
+  text-align: center;
+  display: none;
+  background-color: #ffbbbb;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 4px;
+}
 
 #nav-container {
   display: flex;
@@ -126,6 +143,9 @@ body {
   border: none;
   height: 41px;
   width: 820px;
+}
+.produt {
+  background-color: yellow;
 }
 /* //////////////SECTION///////////////// */
 .section-container {
