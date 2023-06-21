@@ -101,9 +101,9 @@ body {
 }
 #Sucess {
   text-align: center;
-  color: #00ff15;
-  background-color: #ff8989;
-  padding: 10px;
+  color: #003104;
+  background-color: #dbfdda;
+  padding: 20px;
   border-radius: 4px;
   display: none;
 }
