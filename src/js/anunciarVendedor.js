@@ -1,3 +1,4 @@
+let produt = [];
 let titulo = document.querySelector("#titulo");
 let descricao = document.querySelector("#descricao");
 let preco = document.querySelector("#preco");
@@ -12,9 +13,9 @@ let categoriprodut = document.getElementById("acessiorios");
 var photoprodut = document.getElementById("photo");
 let descriçaoprodut = document.getElementById("descricao");
 var concluid = document.getElementById("bottanenvio");
+let photo = document.getElementById("photo");
 
 //Variavel pro localstorage
-let
 
 function validarInput() {
   var mensagemErro = erro;
@@ -41,7 +42,7 @@ function validarInput() {
       "O campo PREÇO está vazio. Por favor, preencha-o.";
     preco.style.cssText = "border: 1px solid red;";
     mensagemErro.style.display = "block";
-  } else {
+  } else if (valorTitulo > "" && valorDesc > "" && valorPreco > "") {
     mensagemErro.textContent = "";
     mensagemErro.style.display = "none";
     preco.style.cssText = "border: 1px solid black;";
@@ -49,15 +50,20 @@ function validarInput() {
     titulo.style.cssText = "border: 1px solid black;";
     validated.textContent = "Concluído com Sucesso";
     validated.style.display = "block";
+    setTimeout(() => {
+      document.getElementById("titulo").value = "";
+      document.getElementById("descricao").value = "";
+      document.getElementById("preco").value = "";
+      validated.style.display = "none";
+    }, 2000);
   }
-  localStorage.setItem(
-    "Produto",
-    JSON.stringify({
-      Titulo: nameprodut.value,
-      Descriçao: descriçaoprodut.value,
-      Preço: moneycash.value,
-      Imagem: photoprodut.value,
-    })
-  );
+
+  let produt = {
+    Titulo: nameprodut.value,
+    Descriçao: descriçaoprodut.value,
+    Preço: moneycash.value,
+    Imagem: photoprodut.value,
+  };
+  produt_JSON = JSON.stringify(produt);
+  localStorage.setItem("Produtos", produt_JSON);
 }
-concluir.addEventListener("click", validarInput);
