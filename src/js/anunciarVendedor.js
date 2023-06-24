@@ -65,5 +65,5 @@ function validarInput() {
     Imagem: photoprodut.value,
   };
   produt_JSON = JSON.stringify(produt);
-  localStorage.setItem("Produtos", produt_JSON);
+  localStorage.setItem(`${nameprodut.value}`, produt_JSON);
 }
