@@ -1,4 +1,3 @@
-let produt = [];
 let titulo = document.querySelector("#titulo");
 let descricao = document.querySelector("#descricao");
 let preco = document.querySelector("#preco");
@@ -13,7 +12,6 @@ let categoriprodut = document.getElementById("acessiorios");
 var photoprodut = document.getElementById("photo");
 let descriçaoprodut = document.getElementById("descricao");
 var concluid = document.getElementById("bottanenvio");
-let photo = document.getElementById("photo");
 
 //Variavel pro localstorage
 
@@ -50,20 +48,20 @@ function validarInput() {
     titulo.style.cssText = "border: 1px solid black;";
     validated.textContent = "Concluído com Sucesso";
     validated.style.display = "block";
-    setTimeout(() => {
-      document.getElementById("titulo").value = "";
-      document.getElementById("descricao").value = "";
-      document.getElementById("preco").value = "";
-      validated.style.display = "none";
-    }, 2000);
   }
 
-  let produt = {
-    Titulo: nameprodut.value,
-    Descriçao: descriçaoprodut.value,
-    Preço: moneycash.value,
-    Imagem: photoprodut.value,
-  };
-  produt_JSON = JSON.stringify(produt);
-  localStorage.setItem(`${nameprodut.value}`, produt_JSON);
+  const listaDeProdutos = JSON.parse(localStorage.getItem('listaDeProdutos') || '[]')
+ 
+  const produto = {
+       Produto: nameprodut.value,
+       Descricao: descriçaoprodut.value,
+       Preco: moneycash.value,    
+     }
+ 
+     listaDeProdutos.push(produto)
+ 
+     localStorage.setItem('listaDeProdutos', JSON.stringify(listaDeProdutos))
+     alert('Produto cadastrado com sucesso!')
+ 
+   window.location.href = 'perfilLojaVendedor.html'
 }
