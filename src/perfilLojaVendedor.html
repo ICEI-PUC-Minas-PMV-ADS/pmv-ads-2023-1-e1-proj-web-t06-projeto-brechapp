@@ -5,6 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="css/perfilLojaVendedor.css" rel="stylesheet" type="text/css" />
+
+    <!-- Bootstrap -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
+      crossorigin="anonymous"
+    />
+
     <title>BrechApp - Perfil da loja - vendedor</title>
   </head>
   <body>
@@ -19,81 +28,68 @@
         <ul class="botoes">
           <li>
             <button type="button" id="chat">
-              <a href="./anunciarVendedor.html" class="btn-anunciar"
-                >Anunciar</a
-              >
+              <a href="./anunciarVendedor.html" class="btn-anunciar">Anunciar</a>
             </button>
-          </li>
-          <li>
-            <button type="button" id="chat">Meus anúncios</button>
           </li>
           <li>
             <button type="button" id="chat">
-              <a href="" class="chat-vendedor">Chat</a>
+              <a href="./perfilLojaVendedor.html">Meus Anúncios</a></button>
+          </li>
+          <li>
+            <button type="button" id="chat">
+              <a href="./chatComVendedor.html" class="chat-vendedor">Chat</a>
             </button>
           </li>
           <li>
-            <button type="button" id="nome">NOME</button>
+            <button type="button" id="nome">
+              <a href="./telaDeLogin.html">NOME</a>
+            </button>
           </li>
         </ul>
       </div>
     </header>
 
-    <main>
-      <h1>Meus anúncios</h1>
-      <div class="container">
-        <div class="produtos">
-          <ul>
-            <li>
-              <p><img src="imgs/baixados.png" /></p>
-              <p>Produto</p>
-              <p>R$ 100,00</p>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magni
-                non ea eos consequatur deserunt facilis, illo soluta laborum
-                itaque quos?
-              </p>
-            </li>
-            <li>
-              <p><img src="imgs/baixados.png" /></p>
-              <p>Produto</p>
-              <p>R$ 100,00</p>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magni
-                non ea eos consequatur deserunt facilis, illo soluta laborum
-                itaque quos?
-              </p>
-            </li>
-          </ul>
-        </div>
+     <!-- View Produtos -->
 
-        <div class="produtos">
-          <ul>
-            <li>
-              <p><img src="imgs/baixados.png" /></p>
-              <p>Produto</p>
-              <p>R$ 100,00</p>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magni
-                non ea eos consequatur deserunt facilis, illo soluta laborum
-                itaque quos?
-              </p>
-            </li>
-            <li>
-              <p><img src="imgs/baixados.png" /></p>
-              <p>Produto</p>
-              <p>R$ 100,00</p>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magni
-                non ea eos consequatur deserunt facilis, illo soluta laborum
-                itaque quos?
-              </p>
-            </li>
-          </ul>
-        </div>
+     <div class="col ps-3 w-100">
+      <div class="row">
+          <div class="card px-0 text-center" id="cardEventosExib">
+              <div class="card-header">
+                  <h6 class="text-black card-title">Meus Produtos</h6>
+              </div>
+              <div class="card-body align-self-center col-6" id="body-card">
+                  <table class="table table-hover" id="exibirEventos">
+                      <thead class=" table table-light">
+                      </thead>
+                      <tbody id="tableProdutos">
+                          <!--Estrutura do Card de exibição dos eventos-->
+                      </tbody>
+                  </table>
+              </div>
+          </div>
       </div>
-    </main>
+  </div>
 
     <footer></footer>
+
+    <script src="./js/pefilLojaVendedor.js"></script>
+
+    <!--Script BootStrap-->
+
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
+      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+      integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>
