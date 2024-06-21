@@ -1,0 +1,27 @@
+message: Please cite this software using these metadata.
+title:
+authors:
+  - family-names: "Santos Celestino da Costa"
+    given-names: "Caio"
+  - family-names: "Mascarenhas Gontijo Couto"
+    given-names: "Carolina"
+  - family-names: "Fonseca de Carvalho"
+    given-names: "Lídia"
+  - family-names: "Albert Rodrigues Dias"
+    given-names: "Marlon" 
+  - family-names: "Alves Gervazio"
+    given-names: "Peterson" 
+ - family-names: "Brandão"
+    given-names: 'Rafael" 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: "Andre Silveira Kutova" 
+    given-names: "Marcos"
+keywords:
+  - Brechó
+  - Aplicativo
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projeto-brechapp
+version: 1.0.0
+date-released: 2024-01-01
+
+
